@@ -3,7 +3,7 @@ from random import random
 
 import random
 
-capitals = {'United States' : 'Washington, D.C','Russia': 'Moscow','England': 'London','China': ' Beijing','Vietnam': 'Hanoi','Italy': 'Rome','Japan': 'Tokyo','Canada': 'Ottawa','Germany': 'Berlin','France': 'Paris', 'Finland': 'Helsinki', 'Sweden': 'Stockholm', 'Denmark': 'Copenhagen'}
+capitals = {'United States' : 'Washington, D.C','Russia': 'Moscow','England': 'London','China': 'Beijing','Vietnam': 'Hanoi','Italy': 'Rome','Japan': 'Tokyo','Canada': 'Ottawa','Germany': 'Berlin','France': 'Paris', 'Finland': 'Helsinki', 'Sweden': 'Stockholm', 'Denmark': 'Copenhagen'}
 score = 0
 print("You have 5 questions to answer!")
 for i in range(5):
